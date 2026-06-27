@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game_2D\\SyntaxER00R\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|d:\\game_2d\\syntaxer00r\\assets\\scripts\\judgmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\judgmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|D:\\Game_2D\\SyntaxER00R\\assets\\scripts\\notespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|D:\\Game_2D\\SyntaxER00R\\assets\\scripts\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|D:\\Game_2D\\SyntaxER00R\\assets\\scripts\\notedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|D:\\Game_2D\\SyntaxER00R\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258A3E0-516E-887B-9314-1D48324B542C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Judgmentsystem.cs",
+              "DocumentMoniker": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Judgmentsystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Judgmentsystem.cs",
+              "ToolTip": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Judgmentsystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Judgmentsystem.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAIwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:01:31.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notespawner.cs",
+              "DocumentMoniker": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Notespawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notespawner.cs",
+              "ToolTip": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Notespawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notespawner.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:59:42.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notecontroller.cs",
+              "DocumentMoniker": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Notecontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notecontroller.cs",
+              "ToolTip": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Notecontroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notecontroller.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:58:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notedata.cs",
+              "DocumentMoniker": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Notedata.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Notedata.cs",
+              "ToolTip": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\Notedata.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Notedata.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:56:43.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Game_2D\\SyntaxER00R\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:49:41.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

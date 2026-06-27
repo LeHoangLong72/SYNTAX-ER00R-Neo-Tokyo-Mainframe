@@ -1,0 +1,21 @@
+{
+  "title": "SYNTAX_ER00R_TEST",
+  "bpm": 175,
+  "offset": 0.0,
+  "notes": [
+    { "time": 2.0,  "lane": 0, "type": "tap",  "duration": 0, "label": "0xFF" },
+    { "time": 2.343, "lane": 1, "type": "tap",  "duration": 0, "label": "0x4F" },
+    { "time": 2.686, "lane": 2, "type": "tap",  "duration": 0, "label": "0xA3" },
+    { "time": 3.029, "lane": 3, "type": "tap",  "duration": 0, "label": "0x1B" },
+    { "time": 3.371, "lane": 0, "type": "hold", "duration": 0.686, "label": "コード" },
+    { "time": 3.371, "lane": 3, "type": "tap",  "duration": 0, "label": "0xCC" },
+    { "time": 4.057, "lane": 1, "type": "tap",  "duration": 0, "label": "0x88" },
+    { "time": 4.057, "lane": 2, "type": "tap",  "duration": 0, "label": "0x77" },
+    { "time": 4.400, "lane": 0, "type": "tap",  "duration": 0, "label": "0xDE" },
+    { "time": 4.743, "lane": 3, "type": "tap",  "duration": 0, "label": "0xAD" },
+    { "time": 5.086, "lane": 1, "type": "hold", "duration": 0.343, "label": "バグ" },
+    { "time": 5.086, "lane": 2, "type": "tap",  "duration": 0, "label": "0xBE" },
+    { "time": 5.429, "lane": 0, "type": "tap",  "duration": 0, "label": "0xEF" },
+    { "time": 5.771, "lane": 3, "type": "tap",  "duration": 0, "label": "0xFF" }
+  ]
+}
